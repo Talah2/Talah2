@@ -9,7 +9,7 @@
 
 I'm a finance graduate with hands-on experience in financial analysis, cost evaluation, and reporting gained through a **CO-OP at Petro Rabigh**  one of the world's largest integrated refining and petrochemical complexes (Saudi Aramco & Sumitomo Chemical JV).
 
-Beyond traditional finance, I apply **Python** to investment analysis — including portfolio optimization using CAPM, efficient frontier models, and quantitative risk-return analysis.
+Beyond traditional finance, I apply **Python** to investment analysis including portfolio optimization using CAPM, efficient frontier models, and quantitative risk-return analysis.
 
 ---
 
