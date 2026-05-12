@@ -50,6 +50,10 @@ Built and optimized an alternative investment portfolio of **10 assets** spannin
 | Market Correlation | **0.73** |
 | Market Beta (regression) | **0.62** |
 
+### 📊 [Saudi Stock Market — CAPM Analysis](https://github.com/Talah2/saudi-stock-market-analysis)
+> Python · CAPM · Sharpe Ratio · Tadawul · yfinance
+
+Analyzed 9 Tadawul-listed stocks using CAPM — ranked by Sharpe Ratio with Beta, Alpha, and Risk-Return visualizations.
 ---
 
 ## 📜 Certifications
