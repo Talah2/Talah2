@@ -77,7 +77,8 @@ Analyzed 9 Tadawul-listed stocks using CAPM — ranked by Sharpe Ratio with Beta
 
 ## 📜 Certifications
 
-- 🔄 **Financial Modeling & Valuation** — Wall Street Prep *(In Progress)*
+- ✅ **PE Deal Process & LBO Modeling** — Wall Street Prep 
+- ✅ **Financial Modeling & Valuation** — Wall Street Prep 
 - ✅ **IPOs in the Saudi Capital Market** — The Financial Academy
 - ✅ **Building and Managing Investment Portfolios** — The Financial Academy
 - ✅ **Investment Behaviors in Financial Markets** — The Financial Academy
