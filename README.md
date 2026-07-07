@@ -37,6 +37,25 @@ Beyond traditional finance, I apply **Python** to investment analysis including 
 
 ## 🚀 Projects
 
+## 📉 stc DCF Valuation Model
+
+`Excel · DCF · Valuation · Financial Modeling`
+
+Built a full Discounted Cash Flow (DCF) model for **Saudi Telecom Company (stc)** as a practical application of my Financial Modeling certification.
+
+| Metric | Value |
+|--------|-------|
+| Revenue (FY2024A) | SAR 75.9bn (+5.7% YoY) |
+| EBITDA Margin | 31.5% |
+| WACC | 9.5% |
+| Long-Term Growth Rate | 3.0% |
+| Implied Share Price (Gordon Growth) | SAR 58–65 |
+| Implied Share Price (EV/EBITDA Exit) | SAR 60–68 |
+
+[📥 Download Model](https://github.com/Talah2/saudi-stock-market-analysis/blob/main/stc_DCF_Model.xlsx)
+
+> For educational purposes only — not investment advice.
+
 ### 📈 [Alternative Investment Portfolio Optimization](https://github.com/Talah2/alternative-investment-portfolio)
 > Python · CAPM · Efficient Frontier · Monte Carlo Simulation
 
