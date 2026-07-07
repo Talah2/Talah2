@@ -37,6 +37,25 @@ Beyond traditional finance, I apply **Python** to investment analysis including 
 
 ## 🚀 Projects
 
+### 💼 [Jarir Marketing Company — LBO Model](https://github.com/Talah2/JARIR-lbo-model)
+`Excel · LBO · Private Equity · Financial Modeling`
+
+Built a full Leveraged Buyout (LBO) model for **Jarir Marketing Company (Tadawul: 4190)** as a practical application of my PE Deal Process & LBO Modeling certification.
+
+| Metric | Value |
+|--------|-------|
+| Entry EV/EBITDA | ~15.0x |
+| Financing | 4.0x EBITDA senior term loan |
+| Hold Period | 5 years |
+| Base Case MOIC | 1.54x |
+| Base Case IRR | ~9.0% |
+
+Includes a full sensitivity grid (leverage × exit multiple) showing that at Jarir's current market valuation, returns are driven almost entirely by the exit multiple assumption not leverage.
+
+[📥 Download Model](https://github.com/Talah2/JARIR-lbo-model/blob/main/Jarir_LBO_Model.xlsx)
+
+> For educational purposes only — not investment advice.
+
 ## 📉 stc DCF Valuation Model
 
 `Excel · DCF · Valuation · Financial Modeling`
